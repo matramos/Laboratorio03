@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="dam.isi.frsf.laboratorio03.MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <item
+        android:id="@+id/menuCrearOferta"
+        android:title="@string/menu_crear_oferta"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menuVerOfertas"
+        android:title="@string/menu_ver_ofertas"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuConfiguracion"
+        android:title="@string/menu_configuracion"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuSalir"
+        android:title="@string/menu_salir"
+        app:showAsAction="never"/>
+</menu>

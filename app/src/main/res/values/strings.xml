@@ -1,4 +1,31 @@
 <resources>
-    <string name="app_name">Laboratorio 03</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">WorkFromHome</string>
+    <string name="menu_crear_oferta">Crear una oferta</string>
+    <string name="horas">Horas</string>
+    <string name="fecha_fin">Fecha Fin</string>
+    <string name="en_ingles">En Ingles</string>
+    <string name="max_pesos_hora">Max $/Hora</string>
+    <string name="moneda_de_pago">Moneda de pago</string>
+    <string name="dolar">US$</string>
+    <string name="euro">Euro</string>
+    <string name="peso_argentino">AR$</string>
+    <string name="libra_esterlina">Libra</string>
+    <string name="real">R$</string>
+    <string name="categoria">Categoria</string>
+    <string name="menu_titulo_acciones">Acciones</string>
+    <string name="menu_postularse_oferta">Postularse a esta oferta</string>
+    <string name="menu_compartir_oferta">Compartir esta oferta</string>
+    <string name="ingrese_oferta">Ingrese oferta</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="banderaPais">Bandera país</string>
+    <string name="menu_ver_ofertas">Ver mis ofertas</string>
+    <string name="menu_configuracion">Configuración</string>
+    <string name="menu_salir">Salir</string>
+    <string name="postulacion_registrada">Se ha registrado la postulación</string>
+    <string name="compartir_oferta_titulo">WorkFromHome - Oferta de trabajo: %01$s para %02$s</string>
+    <string name="compartir_oferta_texto">WorkFromHome \nSe busca %01$s para %02$s.\nSe deberá trabajar por %03$d horas por un salario máximo de %04$.2f %05$s.\nHay tiempo para presentarse hasta el %06$s.</string>
+    <string name="conocimiento_ingles">Es necesario tener conocimientos de inglés.</string>
+    <string name="error_nombre_oferta">El nombre de la oferta es inválido</string>
+    <string name="error_horas">La cantidad de horas ingresadas es inválida</string>
+    <string name="error_max_por_hora">El max $/hora es inválido</string>
 </resources>
